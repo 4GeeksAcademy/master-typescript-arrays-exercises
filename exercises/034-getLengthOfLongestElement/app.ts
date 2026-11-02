@@ -1,4 +1,4 @@
-function getLengthOfLongestElement(arr: number[]): number {
+function getLengthOfLongestElement(arr: string[]): number {
   // your code here
   return 0;
 }
